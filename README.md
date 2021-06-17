@@ -7,3 +7,5 @@ frontPanelOld: Screw in front panel
 subAssemblyNew: Bottom panel with symmetrical holes for automated assembly, curled ends for less overlap
 subAssemblyOld: Bottom panel with no symmetry
 base: Features the new snap in recessed panel and base
+
+sandbox: sandbox is just an assembly file I use to pose the parts together for images
